@@ -1,9 +1,9 @@
 Table developed on ReactJS + Typescript with the possibility of pagination and with different filters
 
-In the project directory, you can run:
+Для запуска проекта выполните следующие действия:
 
-### `npm start`
+Запускаем JSON-Server через терминал "json-server --watch db.json --port 3004"
+Запускаем Frontend часть проекта "npm run start"
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Внимание. Для того, чтобы команда для запуска JSON-Server корректно отработала, необходимо установить пакет json-server глобально.
 
