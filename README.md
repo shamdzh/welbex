@@ -1,4 +1,4 @@
-Table developed on ReactJS + Typescript with the possibility of pagination
+Table developed on ReactJS + Typescript with the possibility of pagination and with different filters
 
 In the project directory, you can run:
 
