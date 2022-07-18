@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "date": "2022-07-16",
+      "name": "Samsung",
+      "amount": "12",
+      "distance": "54"
+    },
+    {
+      "id": 2,
+      "date": "2022-07-16",
+      "name": "Apple",
+      "amount": "56",
+      "distance": "27"
+    },
+    {
+      "id": 3,
+      "date": "2022-07-16",
+      "name": "Microsoft",
+      "amount": "122",
+      "distance": "80"
+    },
+    {
+      "id": 4,
+      "date": "2022-07-16",
+      "name": "IBM",
+      "amount": "43",
+      "distance": "90"
+    },
+    {
+      "id": 5,
+      "date": "2022-07-16",
+      "name": "Lamoda",
+      "amount": "31",
+      "distance": "15"
+    },
+    {
+      "id": 6,
+      "date": "2022-07-16",
+      "name": "Adidas",
+      "amount": "210",
+      "distance": "144"
+    },
+    {
+      "id": 7,
+      "date": "2022-07-16",
+      "name": "Nike",
+      "amount": "188",
+      "distance": "155"
+    },
+    {
+      "id": 8,
+      "date": "2022-07-16",
+      "name": "Puma",
+      "amount": "212",
+      "distance": "254"
+    },
+    {
+      "id": 9,
+      "date": "2022-07-16",
+      "name": "Demix",
+      "amount": "63",
+      "distance": "322"
+    },
+    {
+      "id": 10,
+      "date": "2022-07-16",
+      "name": "AirBalance",
+      "amount": "87",
+      "distance": "98"
+    },
+    {
+      "id": 11,
+      "date": "2022-07-16",
+      "name": "Berkshire Hathaway",
+      "amount": "12",
+      "distance": "54"
+    },
+    {
+      "id": 12,
+      "date": "2022-07-16",
+      "name": "McKesson",
+      "amount": "56",
+      "distance": "27"
+    },
+    {
+      "id": 13,
+      "date": "2022-07-16",
+      "name": "AmerisourceBergen",
+      "amount": "122",
+      "distance": "80"
+    },
+    {
+      "id": 14,
+      "date": "2022-07-16",
+      "name": "Alphabet",
+      "amount": "43",
+      "distance": "90"
+    },
+    {
+      "id": 15,
+      "date": "2022-07-16",
+      "name": "Exxon Mobil",
+      "amount": "31",
+      "distance": "15"
+    },
+    {
+      "id": 16,
+      "date": "2022-07-16",
+      "name": "Cigna",
+      "amount": "210",
+      "distance": "144"
+    },
+    {
+      "id": 17,
+      "date": "2022-07-16",
+      "name": "Cardinal Health",
+      "amount": "188",
+      "distance": "155"
+    },
+    {
+      "id": 18,
+      "date": "2022-07-16",
+      "name": "Kroger",
+      "amount": "212",
+      "distance": "254"
+    },
+    {
+      "id": 19,
+      "date": "2022-07-16",
+      "name": "Ford Motor",
+      "amount": "63",
+      "distance": "322"
+    },
+    {
+      "id": 20,
+      "date": "2022-07-16",
+      "name": "Fannie Mae",
+      "amount": "87",
+      "distance": "98"
+    }
+  ]
+}
